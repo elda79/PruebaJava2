@@ -56,7 +56,9 @@ public class PruebaJava2 {
          case 1:
            JOptionPane.showMessageDialog(null, "enero");
          break;
-          
+          default:
+           JOptionPane.showMessageDialog(null, "no es un mes del año");
+         break;
          
     }
     
