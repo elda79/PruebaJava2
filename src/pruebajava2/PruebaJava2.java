@@ -50,6 +50,9 @@ public class PruebaJava2 {
          case 3:
            JOptionPane.showMessageDialog(null, "marzo");
          break;
+         case 2:
+           JOptionPane.showMessageDialog(null, "febrero");
+         break;
          
          
     }
