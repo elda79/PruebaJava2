@@ -5,9 +5,12 @@
  */
 package pruebajava2;
 import javax.swing.JOptionPane;
-/**
- *
+/*******************************************************************************
+ * Elda Solar
  * @author LAB05
+ * Fecha: 06/11/2017
+ * Clase:Prueba java 2
+ * Responsabilidad:Mostrando el mes mediante numeros aparecera el mes
  */
 public class PruebaJava2 {
 
@@ -60,6 +63,8 @@ public class PruebaJava2 {
            JOptionPane.showMessageDialog(null, "no es un mes del año");
          break;
          
-    }
-    
+         
+             
+         }    
+         } 
 }
