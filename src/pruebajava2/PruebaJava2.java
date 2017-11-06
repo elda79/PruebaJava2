@@ -36,7 +36,11 @@ public class PruebaJava2 {
            JOptionPane.showMessageDialog(null, "agosto");
          break;
          case 7:
-          
+           JOptionPane.showMessageDialog(null, "julio");
+         break;
+         case 6:
+           JOptionPane.showMessageDialog(null, "junio");  
+         break;
          
     }
     
