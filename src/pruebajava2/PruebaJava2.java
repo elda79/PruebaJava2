@@ -44,7 +44,11 @@ public class PruebaJava2 {
          case 5:
            JOptionPane.showMessageDialog(null, "mayo");
          break;
+         case 4:
+           JOptionPane.showMessageDialog(null, "abril");
+         break;
         
+         
     }
     
 }
